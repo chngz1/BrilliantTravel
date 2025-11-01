@@ -112,16 +112,16 @@ export default function Footer() {
               <Link
                 target="_blank"
                 rel="noopener noreferrer"
-                href="mailto:qurban.quliyev@brilliant-travel.com"
+                href="mailto:info@brilliant-travel.com"
                 className="text-base sm:text-lg text-navigation flex flex-row gap-2 sm:gap-4 items-center"
               >
                 <Mail className="flex-shrink-0" />
 
                 <Link
-                  href="mailto:qurban.quliyev@brilliant-travel.com"
+                  href="mailto:info@brilliant-travel.com"
                   className="underline"
                 >
-                  qurban.quliyev@brilliant-travel.com
+                  info@brilliant-travel.com
                 </Link>
               </Link>
 
@@ -139,7 +139,7 @@ export default function Footer() {
                 </Link>
 
                 <Link href="">
-                  <LinkedinIcon />
+                  <YoutubeIcon />
                 </Link>
               </div>
             </div>
