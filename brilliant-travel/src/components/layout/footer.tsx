@@ -101,12 +101,12 @@ export default function Footer() {
               <Link
                 target="_blank"
                 rel="noopener noreferrer"
-                href="tel:+994 50 256 15 19"
+                href="tel:+994 70 981 08 00"
                 className="text-base sm:text-lg text-navigation flex flex-row gap-2 sm:gap-4 items-center"
               >
                 <Phone className="flex-shrink-0" />
 
-                <span>+994 50 256 15 19</span>
+                <span>+994 70 981 08 00</span>
               </Link>
 
               <Link
